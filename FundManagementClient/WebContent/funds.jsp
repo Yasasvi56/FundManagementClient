@@ -49,11 +49,15 @@ pageEncoding="ISO-8859-1"%>
 </div>
 </div> </div> </div><div></div>
 
-<footer class="bg-dark text-center " style="width: 102.2%; height: 130px ; margin-left: -15px;">
+<footer class="bg-dark" style="width: 102.2%; height: 130px ; margin-left: -15px;">
   <!-- Copyright -->
+   <div class="text-center" style="width: 50%; float: right;">
+   <br><br><br><br>
    <a class="text-light " href=#> © 2020 Copyright:tiromika.ya</a>
-   
-  </div>
+   </div>
+   <div class="text-center" style="width: 50%; float: left; ">
+   <br><br><h1 style="text-align: left; color: yellow;font-style: italic;">Gadget Badget</h1>
+   </div>
   <!-- Copyright -->
 </footer>
 
